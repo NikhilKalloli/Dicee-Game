@@ -39,7 +39,6 @@ cd Dicee
 Contributions are welcome! If you have any improvements or new features to suggest, please create a pull request.
 
 
----
 
 Enjoy playing the Dice game! If you have any questions or issues, feel free to [open an issue](https://github.com/NikhilKalloli/Dicee-Game/issues).
 
