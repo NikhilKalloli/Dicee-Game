@@ -29,7 +29,7 @@ Feel free to explore and modify the files to customize the game to your liking!
 Clone the repository to your local machine and open `index.html` in a web browser.
 
 ```
-git clone https://github.com/NikhilKalloli/Dicee.git
+git clone https://github.com/NikhilKalloli/Dicee-Game.git
 cd Dicee
 ```
 
