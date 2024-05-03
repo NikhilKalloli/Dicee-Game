@@ -30,7 +30,6 @@ Clone the repository to your local machine and open `index.html` in a web browse
 
 ```
 git clone https://github.com/NikhilKalloli/Dicee-Game.git
-cd Dicee
 ```
 
 
